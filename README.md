@@ -6,4 +6,7 @@ Most of these presentations are pretty much the same with some variations based 
 Auckland Presentation (video):
 https://youtu.be/Gq0N8nQk4Xs
 
+Power Platform 24 webinar:
+https://www.xrmvirtual.com/meeting-details/?id=626fc80b-70cf-e911-a860-000d3a537884
+
 
