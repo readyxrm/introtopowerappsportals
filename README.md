@@ -3,4 +3,7 @@ Intro to PowerApps Portals Presentation from recent community events and webinar
 
 Most of these presentations are pretty much the same with some variations based on region/timing.
 
+Auckland Presentation (video):
+https://youtu.be/Gq0N8nQk4Xs
+
 
